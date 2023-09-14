@@ -1,6 +1,7 @@
 body,main{
 	display: flex;
-}
+	background-color: blue;
+	color: white;
 
 body{
 	flex-direction: column;
@@ -9,6 +10,7 @@ body{
 main{
 	flex-direction: row;
 	flex: auto;
+	background-color: red;
 }
 
 article{
